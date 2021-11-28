@@ -1,11 +1,8 @@
 'use strict';
 
-let money,
-   income,
-   addExpenses,
-   deposit,
-   mission,
-   period;
-
-alert('hello');
-console.log('Goodbye');
+let money = 30000,
+   income = 'Фриланс',
+   addExpenses = 'проездной, квартира, еда',
+   deposit = false,
+   mission = 300000,
+   period = 12;
