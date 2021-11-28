@@ -6,3 +6,6 @@ let money,
    deposit,
    mission,
    period;
+
+alert('hello');
+console.log('Goodbye');
