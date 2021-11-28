@@ -22,5 +22,3 @@ console.log(`Период равен ${period} месяцев.
 console.log(addExpenses.toLocaleLowerCase().split(', '));
 
 console.log(budgetDay);
-
-// 3-е задание
